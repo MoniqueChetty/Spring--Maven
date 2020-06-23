@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5474e763-45ff-4558-8fd2-548115023b5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1djSE7wKPgaoMSY2aLehaxIbvM2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/core/src/main/resources" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NetBeansProjects\Java Boot camp 2020\Module 4 Spring\guess-the-number-game\core\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="monique.learn.Main" />
+      <module name="core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="monique.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5474e763-45ff-4558-8fd2-548115023b5d" name="Default Changelist" comment="" />
+      <created>1592936894903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592936894903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="657" y="74" key="#Project_Structure" timestamp="1592937325860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="657" y="74" key="#Project_Structure/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592937325859" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1592939640032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592939640032" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1592941162476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592941162476" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1592941162476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592941162476" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1592941162476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592941162476" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1592941162476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592941162476" />
+    <state x="559" y="58" key="SettingsEditor" timestamp="1592941066271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="559" y="58" key="SettingsEditor/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592941066271" />
+    <state x="418" y="117" key="new project wizard" timestamp="1592937274041">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="117" key="new project wizard/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592937274041" />
+    <state x="544" y="189" width="672" height="677" key="run.anything.popup" timestamp="1592940859355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="189" width="672" height="677" key="run.anything.popup/0.0.1536.824/-1600.-217.1600.860@0.0.1536.824" timestamp="1592940859355" />
+  </component>
+</project>
